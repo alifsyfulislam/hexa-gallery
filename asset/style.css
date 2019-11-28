@@ -15,7 +15,7 @@ body {
     left: 0;
 }
 .carousel > * {
-    flex: 0 0 auto;
+    /*flex: 0 0 auto;*/
 }
 .carousel figure {
     margin: 25px;
